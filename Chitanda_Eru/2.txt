@@ -1,0 +1,5 @@
+<lora:Chitanda_Eru:0.5>,((masterpiece,best quality,ultra detailed)),((white serafuku,sailor suit,(black high-waist skirt))),purple eyes,black hair,library,pleated skirt,(perfect face,beatiful face,detail face)
+Negative prompt: extra fingers,extra hands,extra arms,((worst quality, low quality, normal quality:1.4)),((nsfw)),((nude,lips,tooth)),(((ugly))),huge boobs,medium breasts,((bluury))
+Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 7.5, Seed: 3570103610, Face restoration: CodeFormer, Size: 512x786, Model hash: c590550ea5, Model: grapefruitHentaiModel_grapefruitv41
+
+Saved: 00046-3570103610.png

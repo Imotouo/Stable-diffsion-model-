@@ -1,0 +1,6 @@
+<lora:Chitanda_Eru:0.9>,((masterpiece,best quality,ultra detailed)),((serafuku,sailor suit,(high-waist skirt))),purple eyes,black hair,library,pleated skirt,dress,((cute,anime)),open mouth,curious,detail eyes,vine
+
+Negative prompt: extra fingers,extra hands,extra arms,((worst quality, low quality, normal quality:1.4)),((nsfw)),((nude,lips,tooth)),(((ugly))),huge boobs,medium breasts,((bluury)),sexy,extra legs
+Steps: 47, Sampler: Euler a, CFG scale: 7, Seed: 2224478657, Face restoration: CodeFormer, Size: 512x786, Model hash: 5493a0ec49, Model: abyssorangemix3AOM3_aom3a1b
+
+Saved: 00049-2224478657.png
