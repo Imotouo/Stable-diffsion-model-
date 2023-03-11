@@ -1,0 +1,5 @@
+<lora:gokou_ruri:0.8>,((masterpiece,best quality,ultra detailed)),(((lolita fashion))),perfact face,hime cut,blunt bangs,cat ears,beatiful face,smile,full body,standing,1girl,solo,detail eyes,red eyes
+Negative prompt: (worst quality, low quality, normal quality:1.4),((extra fingers,extra hands,extra arms,blurry,blurry background,nsfw)),extra fingers, mutated hands, blurry, cloned face, ugly, extra limbs, gross proportions,bad_hands,missing fingers, mutated hands,(fused fingers),(too many fingers), doublemiddle finger, missing index finger, interlockedfingers, pick fingers, sharp fingernails,(steepled fingers),x fingers,interlocked fingers, cross fingers, poor outlin, finger growth, outline on the body, outline on hair, outline onbackground, fuse arm, fuse elbow, more than two arms, more than two elbow,blurry eyes,maid
+Steps: 32, Sampler: DPM++ 2M Karras, CFG scale: 8, Seed: 2174396109, Face restoration: CodeFormer, Size: 512x786, Model hash: 5493a0ec49, Model: abyssorangemix3AOM3_aom3a1b
+
+Saved: 00034-2174396109.png
